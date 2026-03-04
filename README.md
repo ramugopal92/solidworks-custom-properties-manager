@@ -50,7 +50,9 @@ Creator of **The Tech Thinker**
 https://thetechthinker.com
 
 ---
+## Tool Interface
 
+![SolidWorks Custom Properties Manager](images/tool-interface.png)
 ## Technical Article
 
 Full explanation of the tool architecture and workflow:
