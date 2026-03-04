@@ -38,7 +38,21 @@ This tool automates the process using an **Excel-based batch workflow**.
 * SolidWorks API
 * VBA (Visual Basic for Applications)
 * Excel Automation
+  
+---
+## Architecture
 
+The tool uses a simple UI-driven workflow built using the SolidWorks API and VBA.
+
+Workflow:
+
+SolidWorks Files
+↓
+Export Custom Properties
+↓
+Edit Metadata in Excel
+↓
+Batch Import Back to SolidWorks
 ---
 
 ## Author
