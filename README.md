@@ -54,7 +54,22 @@ Edit Metadata in Excel
 ↓
 Batch Import Back to SolidWorks
 ---
+## Features
+- Batch export properties
+- Excel metadata editing
+- Bulk import to SolidWorks
+- Folder-level automation
 
+## Requirements
+- SolidWorks
+- VBA enabled
+- Excel
+
+## Installation
+1. Download the release
+2. Open SolidWorks
+3. Run the macro
+---
 ## Author
 
 **Ramu Gopal**
