@@ -52,7 +52,7 @@ https://thetechthinker.com
 ---
 ## Tool Interface
 
-![SolidWorks Custom Properties Manager](images/tool-interface.png)
+![SolidWorks Custom Properties Manager](images/SolidWorks_Custom Property Manager UI-Home.jpeg)
 ## Technical Article
 
 Full explanation of the tool architecture and workflow:
